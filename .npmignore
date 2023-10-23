@@ -1,0 +1,15 @@
+__mocks__
+.storybook
+.vscode
+coverage
+stories
+!dist
+.babelrc
+.eslintignore
+.eslintrc.json
+.travis.yml
+jsconfig.json
+rollup.config.*.js
+test-config.js
+yarn.lock
+*.log
